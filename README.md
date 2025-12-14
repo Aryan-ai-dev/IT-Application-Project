@@ -1,1 +1,1 @@
-In this personal branch, you can include source codes, presentation slides and references to materials, journals or websites that you used
+In the main branch, we can hold discussions regarding the project and plan our schedule accordingly.
